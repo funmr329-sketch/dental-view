@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { motion, AnimatePresence, useReducedMotion } from 'motion/react';
+import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
 import { Tooth, Sparkle, ArrowsOut, Anchor, Heart, Lightning, CaretDown, CaretUp } from '@phosphor-icons/react';
 import { services, type Service } from '@/lib/data';
 import { cn } from '@/lib/utils';

@@ -1,6 +1,6 @@
 'use client';
 
-import { motion, useReducedMotion } from 'motion/react';
+import { motion, useReducedMotion } from 'framer-motion';
 import { DentalScene } from '@/components/3d/DentalScene';
 import { CalendarCheck, CaretRight } from '@phosphor-icons/react';
 

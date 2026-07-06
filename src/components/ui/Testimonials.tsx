@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { motion, AnimatePresence, useReducedMotion } from 'motion/react';
+import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
 import { testimonials } from '@/lib/data';
 import { Star, Quotes, CaretLeft, CaretRight } from '@phosphor-icons/react';
 

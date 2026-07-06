@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { motion, useReducedMotion } from 'motion/react';
+import { motion, useReducedMotion } from 'framer-motion';
 import { MapPin, Phone, Clock, Envelope, PaperPlaneTilt, CheckCircle, Spinner } from '@phosphor-icons/react';
 
 export function Contact() {
